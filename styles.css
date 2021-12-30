@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(100, 98, 98);
+    font-style: normal;
+}
+h1{
+    color:#9cb0df;
+    transition: all 01s;
+}
+span{
+    color:yellow;
+}
+p{
+    color: white;
+    
+}
+h2{
+    color:#8ba3dd;
+    transition: all 01s;
+}
+ul{
+    color:white;
+}
+i{
+    color:white;
+}
+ol{
+    color:white;
+}
+ins{
+    color:white;
+}
+body{
+    width: 1120px;
+    margin: 0% auto;
+}
